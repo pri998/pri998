@@ -1,16 +1,81 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Priya Kumari</h1>
 
-<!--
-**pri998/pri998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b> Turning Code into Impact - Developer | Innovaator | Leader </b><br>
+  📍 Institute of Engineering & Management, Kolkata | Class of 2026
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🙋‍♀️ About Me
+
+- 🎓 Currently pursuing B.Tech in Computer Science and Engineering (CGPA: 9.74)
+- 📚 I love building intelligent systems, solving real-world problems, and mentoring peers.
+- ✨ Interests: C++, Web Development, AIML
+
+---
+
+## 🔭 What I’m Working On
+
+- **[BookLoop](https://github.com/pri998/BookLoop)** – An AI-powered platform for book donation & knowledge-sharing  
+- **[DevVerse](https://github.com/pri998/DevVerse)** – AI pod to automate RFP to assets using LLMs & multi-agent systems  
+- **[SnapStream](https://github.com/pri998/SnapStream)** – Dynamic image gallery with search, download & personalization  
+- **Cellular Automata based Classifier** – Research project accepted at ASCAT; paper published in Springer Nature
+
+---
+
+## 🏆 Achievements
+
+- **Semi-finalist**, Google Girl Hackathon 2025
+- **Winner**, Hack4Bengal Hackathon 2025 Virtual Round
+- **Top 6%**, Walmart CodeHers 2025 Round 1
+- **Infosys Pragati Mentee**, **GHC 2024 Scholar**, **SheFi Cohort 6 Scholar**
+- Academic Rank 4 (1st Yr) & Rank 7 (2nd Yr), IEM Kolkata
+- School Rank 1, CBSE Class X AISSCE (96%)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="mailto:priyakumari1501k@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat" /></a>
+  <a href="https://www.linkedin.com/in/priya998"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat" /></a>
+  <a href="https://github.com/pri998"><img src="https://img.shields.io/badge/GitHub-black?logo=github&style=flat" /></a>
+</p>
+
+---
+
+## 🧠 Skills & Technologies
+
+- **Languages:** C++, JavaScript, Python, SQL
+- **Web Dev:** HTML, CSS, React.js, Node.js
+- **Tools:** Git, GitHub, VS Code, Oracle, MySQL, Linux
+- **CS Core:** DSA, OOP, DBMS, OS, CN, Software Engineering
+
+---
+
+## 📌 Positions of Responsibility
+
+- **Management Lead**, Google Developer Groups IEM (2024–25)
+- **Co-Lead**, AlgoZenith IEM – Mentoring & Technical Talks (2024–25)
+- **Member**, Women in Technology (2024–26)
+- **Reception Chair**, SAE IEM Core Committee (2024–25)
+- **School Captain**, Baldwin Academy
+- **President of Maths Club**, Baldwin Academy
+
+---
+
+<!-- ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pri998&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pri998&theme=radical&hide_border=false" width="48%" />
+</p>
 -->
+
+---
+
+<p align="center">
+  <i>“Code with passion. Build with purpose. Learn without limits.”</i>
+</p>
+

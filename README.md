@@ -26,12 +26,12 @@
 
 ## 🏆 Achievements
 
-- **Semi-finalist**, Google Girl Hackathon 2025
-- **Winner**, Hack4Bengal Hackathon 2025 Virtual Round
-- **Top 6%**, Walmart CodeHers 2025 Round 1
+- **Semi-finalist** at Google Girl Hackathon 2025 among 58000+ participants
+- **Winner** of Hack4Bengal Hackathon 2025 Virtual Round among 240+ teams
+- **Top 6%** at Walmart CodeHers 2025 Round 1 among 1lakh+ participants
 - **Infosys Pragati Mentee**, **GHC 2024 Scholar**, **SheFi Cohort 6 Scholar**
 - Academic Rank 4 (1st Yr) & Rank 7 (2nd Yr), IEM Kolkata
-- School Rank 1, CBSE Class X AISSCE (96%)
+- School Rank 1 in CBSE Class X AISSCE (96%)
 
 ---
 

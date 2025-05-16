@@ -2,7 +2,7 @@
 
 <p align="center">
   <b> Turning Code into Impact - Developer | Innovaator | Leader </b><br>
-  📍 Institute of Engineering & Management, Kolkata | Class of 2026
+   Institute of Engineering & Management, Kolkata | Class of 2026
 </p>
 
 ---

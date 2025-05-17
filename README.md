@@ -2,18 +2,17 @@
   <img src="assets/cover img github.png" alt="Priya Kumari" width="600" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Priya Kumari</h1>
+<h1 align="center">Hi 👋, I'm Priya !</h1>
 
 <p align="center">
-  <b> Turning Code into Impact - Developer | Innovaator | Leader </b><br>
-   Institute of Engineering & Management, Kolkata | Class of 2026
+  My Portfolio : 
 </p>
 
 ---
 
 ## 🙋‍♀️ About Me
 
-- 🎓 Currently pursuing B.Tech in Computer Science and Engineering (CGPA: 9.74)
+- 🎓 Currently pursuing B.Tech in Computer Science and Engineering (CGPA: 9.74) at Institute of Engineering & Management, Kolkata
 - 📚 I love building intelligent systems, solving real-world problems, and mentoring peers.
 - ✨ Interests: C++, Web Development, AIML
 

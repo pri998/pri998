@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/cover img github.png" alt="Priya Kumari" width="150" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Priya Kumari</h1>
 
 <p align="center">

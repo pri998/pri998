@@ -20,7 +20,7 @@
 - **[BookLoop](https://github.com/pri998/BookLoop)** – An AI-powered platform for book donation & knowledge-sharing  
 - **[DevVerse](https://github.com/pri998/DevVerse)** – AI pod to automate RFP to assets using LLMs & multi-agent systems  
 - **[SnapStream](https://github.com/pri998/SnapStream)** – Dynamic image gallery with search, download & personalization  
-- **Cellular Automata based Classifier** – Research project accepted at ASCAT; paper published in Springer Nature
+- **[Pattern Classifier using 5N CA](https://github.com/pri998/Pattern-Classifier-using-5N-CA)** – Research project accepted at ASCAT; paper published in Springer Nature
 
 ---
 

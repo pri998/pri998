@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priya !</h1>
 
 <p align="center">
-  My Portfolio : 
+  Check out my Portfolio : https://priya-portfolio-liard.vercel.app/
 </p>
 
 ---

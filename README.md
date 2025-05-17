@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cover img github.png" alt="Priya Kumari" width="150" />
+  <img src="assets/cover img github.png" alt="Priya Kumari" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Priya Kumari</h1>

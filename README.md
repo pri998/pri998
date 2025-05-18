@@ -8,7 +8,7 @@
 
 ## 🙋‍♀️ About Me
 
-- 🎓 Currently pursuing B.Tech in Computer Science and Engineering (CGPA: 9.74) at Institute of Engineering & Management, Kolkata
+- 🎓 Currently pursuing Bachelor of Technology in Computer Science and Engineering (CGPA: 9.74) at Institute of Engineering & Management, Kolkata
 - 📚 I love building intelligent systems, solving real-world problems, and mentoring peers.
 - ✨ Interests: C++, Web Development, AIML
 

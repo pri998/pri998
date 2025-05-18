@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Priya !</h1>
 
 <div align="center">
+  👉 Visit My Portfolio : 
   <a href="https://priya-portfolio-liard.vercel.app/" target="_blank" rel="noopener noreferrer">
-    👉 Visit My Portfolio : https://priya-portfolio-liard.vercel.app/
+    https://priya-portfolio-liard.vercel.app/
   </a>
 </div>
 
